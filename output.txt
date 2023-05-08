@@ -1,0 +1,4 @@
+Overriding: out_dir = out-hafez-char
+Overriding: device = cpu
+number of parameters: 0.79M
+Loading meta from data\hafez_char\meta.pkl...
